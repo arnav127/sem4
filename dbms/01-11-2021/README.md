@@ -1,3 +1,5 @@
+# Table of Contents <!-- omit in toc -->
+
 - [1. Create Schema](#1-create-schema)
   - [1.1. Code](#11-code)
   - [1.2. Output](#12-output)
