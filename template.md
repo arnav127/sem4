@@ -43,11 +43,11 @@ header-includes:
 			
 			\vspace{0.5cm}
 			\LARGE
-			DBMS Lab\\
+			ADA Lab\\
 			\vspace{1cm}
 			
 			\Large
-			January 11, 2021\\
+			January 20, 2021\\
             
 			\vspace{1.5cm}
 			\LARGE
@@ -57,7 +57,7 @@ header-includes:
 			
 			\vfill
 			\LARGE
-			Database Basics
+			Sorting Algorithms
 			
 			\vspace{1.8cm}
 			
