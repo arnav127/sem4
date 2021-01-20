@@ -118,6 +118,8 @@ int main()
 
 ---
 
+\newpage
+
 # 2. Merge Sort
 Merge sort is an efficient, general-purpose, comparison-based sorting algorithm. It is a divide and conquer algorithm that was invented by John von Neumann in 1945. Merging is the process of combining two or more sorted data lists into a third list such that it is also sorted.
 
@@ -143,7 +145,9 @@ void MergeSort (int a[], int low, int high)
 ## 2.2. Efficiency Analysis
 
 ### 2.2.1. Complexity
-- **Time Complexity:** *O(N logN)*
+- **Best Case Time Complexity:** *O(N logN)*
+- **Worst Case Time Complexity:** *O(N logN)*
+- **Average Case Time Complexity:** *O(N logN)*
   
 ### 2.2.2. Advantages
 - Best and worst-case efficiency is *O(N logN)*. Hence it is very efficient.
