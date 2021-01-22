@@ -29,7 +29,7 @@ A simple form to input the Name and Email of the user.
 ```
 
 ### 1.1.2. Output
-![Input Form](1.png){ width=450px }
+![Input Form](1.png)
 
 ---
 
@@ -44,6 +44,6 @@ Welcome message printed with the username from the pervios form.
 ```
 
 ### 1.2.2. Output
-![Welcome Message](2.png){width=450px}
+![Welcome Message](2.png)
 
 ---
