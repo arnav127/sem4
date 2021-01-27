@@ -233,8 +233,8 @@ int main()
 
 ## 3.4. Time Complexity
 The worst case will occur when we have our target in the larger (2/3) fraction of the array, as we proceed to find it, ie when we are eliminating the smaller (1/3) fraction of the array every time. We call once for n, then for(2/3) n, then for (4/9) n and henceforth. Thus we need *O(log N)* time.  
-$$ fib(n) = \left[ \frac{1}{\sqrt{5}} \left(\frac{1 + \sqrt{5}}{2} \right)^{n} \right]$$  
-<!-- ![](eqn.png) -->
+<!-- $$ fib(n) = \left[ \frac{1}{\sqrt{5}} \left(\frac{1 + \sqrt{5}}{2} \right)^{n} \right]$$   -->
+![](eqn.png)
 - **Worst case Time Complexity:** *O(log N)*
 - **Average case Time Complexity:** *O(log N)*
 - **Best case Time Complexity:** *O(1)*
