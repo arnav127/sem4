@@ -1,0 +1,1 @@
+select Fname, Minit, Lname from employee where Salary > 30000;
