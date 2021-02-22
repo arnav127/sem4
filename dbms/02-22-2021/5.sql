@@ -1,0 +1,1 @@
+select distinct Salary from employee;
