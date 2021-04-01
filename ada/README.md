@@ -9,3 +9,4 @@
 |      5 | [Minimum Spanning Trees](02-24-2021/) | Feb 24, 2021 | Feb 24, 2021 |
 |      6 | [Knapsack Problem](03-10-2021/)       | Mar 10, 2021 | Mar 10, 2021 |
 |      7 | [Dijkstra Algorithm](03-17-2021/)     | Mar 17, 2021 | Mar 17, 2021 |
+|      8 | [Connected Graphs](03-31-2021/)       | Mar 31, 2021 | Mar 31, 2021 |
